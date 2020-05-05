@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Bronse plan",
+    "description": "Individual and small teams",
+    "features": [
+      "Clean and easy to use app",
+      "Simple code generator"
+    ],
+    "price": 9
+  },
+  {
+    "id": 2,
+    "title": "Silver plan",
+    "description": "Growing business",
+    "features": [
+      "Clean and easy to use app",
+      "Simple code generator",
+      "Neat dashboard with settings"
+    ],
+    "price": 19
+  },
+  {
+    "id": 3,
+    "title": "Gold plan",
+    "description": "Advanced companies",
+    "features": [
+      "Clean and easy to use app",
+      "Simple code generator",
+      "Neat dashboard with settings",
+      "Helpful live support",
+      "Transparent price structure"
+    ],
+    "price": 29
+  }
+]
